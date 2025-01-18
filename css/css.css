@@ -1,0 +1,17 @@
+.navbar-brand{
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+#img-logo-0{
+    width: 140px;
+}
+
+#img-logo-1{
+    width: 90px;
+    display: none;
+}
+
+.body-inner .fade_down_effect .container nav #navbarNavDropdown ul .nav-item .ticket-btn{
+    color: white !important;
+}
